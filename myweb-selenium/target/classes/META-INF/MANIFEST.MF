@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: myweb-selenium
-Implementation-Version: 1.0.0-SNAPSHOT
-Built-By: kan-c
-Implementation-Vendor-Id: com.terasoluna.myweb
-Build-Jdk: 1.8.0_131
-Created-By: Maven Integration for Eclipse
-Implementation-Vendor: TERASOLUNA Framework Team
-
