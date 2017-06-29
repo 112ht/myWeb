@@ -1,0 +1,5 @@
+./myweb\myweb-web/target/
+./myweb\myweb-domain/target/
+./myweb\myweb-env/target/
+./myweb\myweb-initdb/target/
+./myweb\myweb-selenium/target/

@@ -11,6 +11,7 @@
         <h1>Access Denied Error!</h1>
         <div class="error">
             <c:if test="${!empty exceptionCode}">[${f:h(exceptionCode)}]</c:if>
+            <!-- application-messages.propertiesファイルの中でメッセージ内容を管理している -->
             <spring:message code="e.xx.fw.7003" />
         </div>
     <br>

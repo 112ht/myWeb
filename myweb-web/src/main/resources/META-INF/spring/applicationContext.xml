@@ -30,6 +30,7 @@
     </bean>
 
     <!-- Exception Code Resolver. -->
+     <!-- application-messages.propertiesファイルの中でメッセージ内容を管理している -->
     <bean id="exceptionCodeResolver"
         class="org.terasoluna.gfw.common.exception.SimpleMappingExceptionCodeResolver">
         <!-- Setting and Customization by project. -->
